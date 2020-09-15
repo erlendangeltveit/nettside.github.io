@@ -1,0 +1,19 @@
+body {
+  background-color: deeppink;
+  margin: 0;
+  background-size:1024px 724px;
+  background-image: url(https://www.zastavki.com/pictures/originals/2017Games_Cyborg_character_Genji_games_Overwatch_111869_.png);
+}
+/* this is just the color of the background of my webpage*/
+h1 {
+  color: white;
+}
+/* whatever is put into the h1 color will be the color of every H1 in on
+my webpage if not specified otherwise*/
+/*
+p {
+}
+*/ 
+/*this command is the same as the H1 but only for p (paragraphs) also
+if not specified othervise*/
+
