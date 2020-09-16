@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  color: rgba(255, 255, 255, .8);
+  font-family: sans-serif;
+}
+.main-menu{
+  display: grid;
+  grid-template-columns: repeat(4,auto) 1fr;
+  align-items: center;
+}
+.menu-item{
+  padding: .25em;
+  font-size: .9em;
+  text-transform: uppercase;
+  font-weight: bold;
+  
+}
+.menu-item:first-child{
+  padding-right: 1em;
+
+}
+.menu-item:last-child{
+  text-align: right;
+  padding-right: 1em;
+}
+.logo img{
+  height: 3em;
+}

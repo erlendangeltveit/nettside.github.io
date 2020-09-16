@@ -1,8 +1,8 @@
 body {
-  background-color: deeppink;
+  background-color: #2d132c;*/
   margin: 0;
-  background-size:1024px 724px;
-  background-image: url(https://www.zastavki.com/pictures/originals/2017Games_Cyborg_character_Genji_games_Overwatch_111869_.png);
+  /*background-image: url(https://www.zastavki.com/pictures/originals/2017Games_Cyborg_character_Genji_games_Overwatch_111869_.png);*/
+  background-size: cover;
 }
 /* this is just the color of the background of my webpage*/
 h1 {
